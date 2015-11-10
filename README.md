@@ -13,7 +13,7 @@ Liste des requêtes possibles :</br>
             <li>Alerte sur les issues</li>
         </ul>
     </li>
-<ol>API Météo
+API Météo
    <li>
        <ul>
            <li>Afficher la météo locale</li>
@@ -34,10 +34,18 @@ curl --user "Kaweet" --data '{"description":"Created via API","public":"true","f
 curl --data "login=Kaweet" --data "token=TOKEN" https://github.com/api/v2/json/user/show/Kaweet
 
 4) Requete GET :
-curl https://api.github.com/users/Kaweet
+https://api.github.com/users/
 
-curl --user "Kaweet:PASSWD" https://api.github.com/gists/starred
+https://api.github.com/users/Kaweet
 
+https://api.github.com/?access_token=d536231759ea583d0106598a6e2ee4c4e61997fd
 
+5)
+
+Test des requêtes :
+    https://api.github.com/users/Kaweet
+    -> Ok, fichier JSON correspond
+    https://api.github.com/?access_token=d536231759ea583d0106598a6e2ee4c4e61997fd
+    -> Ok, fichier JSON correspond
 
 </ol>
