@@ -20,6 +20,18 @@ API Météo :
     - Météo par heures/Jours/semaines
     - Afficher les précipitations
     </ol>
+
 2) API Choisi : GitHub
+
 3) Requête POST :
+
+curl --user "Kaweet" --data '{"description":"Created via API","public":"true","files":{"README.md":{"content":"TEST"}}' https://github.com/Kaweet/BDDClientTD1/
+
+curl --data "login=Kaweet" --data "token=TOKEN" https://github.com/api/v2/json/user/show/Kaweet
+
+4) Requete GET :
+curl https://api.github.com/users/Kaweet
+
+curl --user "Kaweet:PASSWD" https://api.github.com/gists/starred
+
 </ol>
