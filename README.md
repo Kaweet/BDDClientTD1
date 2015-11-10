@@ -2,9 +2,9 @@
 <<<<<<< HEAD
 >>>>>>> 28c5a4fdb6d4adc86b7a84f0cb398e1f73f74cc2
 
-Liste des requêtes possibles :
-1) API GitHub :
-    - Partage de projet
+Liste des requêtes possibles :</br>
+1) API GitHub :</br>
+    - Partage de projet </br>
     - Evènement sur les projets open source les plus populaires
     - Commentaire sur les projets
     - Suivis sur les projets personnels (statistique)
