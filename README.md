@@ -13,13 +13,17 @@ Liste des requêtes possibles :</br>
             <li>Alerte sur les issues</li>
         </ul>
     </li>
-API Météo :
-    - Afficher la météo locale
-    - Afficher la météo dans un lieu désiré
-    - Alertes météos
-    - Météo par heures/Jours/semaines
-    - Afficher les précipitations
-    </ol>
+<ol>API Météo
+   <li>
+       <ul>
+           <li>Afficher la météo locale</li>
+           <li>Afficher la météo dans un lieu désiré</li>
+           <li>Alertes météos</li>
+           <li>Météo par heures/Jours/semaines</li>
+           <li>Afficher les précipitations</li>
+       </ul>
+   </li>
+</ol>
 
 2) API Choisi : GitHub
 
@@ -33,5 +37,7 @@ curl --data "login=Kaweet" --data "token=TOKEN" https://github.com/api/v2/json/u
 curl https://api.github.com/users/Kaweet
 
 curl --user "Kaweet:PASSWD" https://api.github.com/gists/starred
+
+
 
 </ol>
