@@ -4,11 +4,11 @@
 
 Liste des requêtes possibles :</br>
 1) API GitHub :</br>
-    - Partage de projet </br>
-    - Evènement sur les projets open source les plus populaires
-    - Commentaire sur les projets
-    - Suivis sur les projets personnels (statistique)
-    - Alerte sur les issues
+    <ul>Partage de projet
+    <li>Evènement sur les projets open source les plus populaires</li>
+    <li>Commentaire sur les projets</li>
+    <li>Suivis sur les projets personnels (statistique)</li>
+    <li>Alerte sur les issues</li>
 API Météo :
     - Afficher la météo locale
     - Afficher la météo dans un lieu désiré
