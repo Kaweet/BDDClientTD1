@@ -1,0 +1,10 @@
+TD2 : BDD d'une Appli Client Mobile
+
+A)1)
+    L'API permet de récuperer les données relatives à un utilisateurs du dépot GitEUB.
+  2)
+    Les données stockées sont en JSon.
+    
+B)
+    
+    
